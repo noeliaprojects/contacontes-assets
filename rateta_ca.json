@@ -1,0 +1,55 @@
+{
+  "titol": "La rateta presumida",
+  "escenes": [
+    {
+      "text": "La rateta presumida",
+      "imatge": "rateta_titol",
+      "audio": "rateta_titol_ca"
+    },
+    {
+      "text": "Un dia, la rateta estava escombrant l’escaleta quan va trobar una moneda d’or al terra.\n—Què en faré, d’aquesta moneda?",
+      "imatge": "rateta1",
+      "audio": "rateta1_ca"
+    },
+    {
+      "text": "La rateta va pensar, va pensar... i al final va decidir comprar-se un llacet vermell per a la cua.\nQuan se’l va posar, estava més presumida que mai.",
+      "imatge": "rateta2",
+      "audio": "rateta2_ca"
+    },
+    {
+      "text": "De seguida, els animals la van veure i tots volien casar-se amb ella.\nPrimer va venir el gall i li va dir:\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo canto “quiquiriquic!” molt fort.\n—Ai no! —va dir la rateta—. Fas massa soroll!",
+      "imatge": "rateta3",
+      "audio": "rateta3_ca"
+    },
+    {
+      "text": "Després va venir el gos i li va dir:\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo faig “bup-bup” i et cuidaré.\n—Ai no! —va dir la rateta—. Fas massa soroll!",
+      "imatge": "rateta4",
+      "audio": "rateta4_ca"
+    },
+    {
+      "text": "Tot seguit va venir el ruc i li va dir:\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo faig “iii-aaah”.\n—Ai no! —va dir la rateta—. Fas massa soroll!",
+      "imatge": "rateta5",
+      "audio": "rateta5_ca"
+    },
+    {
+      "text": "Després va aparèixer el gat, molt elegant.\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo seré molt dolç i calladet.\n—Oh, sí! —va dir la rateta—. Amb tu sí que em vull casar!",
+      "imatge": "rateta6",
+      "audio": "rateta6_ca"
+    },
+    {
+      "text": "El dia del casament, la rateta va preparar un bon dinar i va posar una cassola al foc.\nEl gat, amb veu suau, li va dir:\n—Rateta, rateta, tan boniqueta, deixa’m tastar el brou...",
+      "imatge": "rateta7",
+      "audio": "rateta7_ca"
+    },
+    {
+      "text": "Quan la rateta es va girar... Nyam! El gat li va saltar a sobre i se la va voler menjar!\nPer sort, els amics animals de la rateta van arribar corrents i la van salvar.\nLa rateta va aprendre que no s’ha de jutjar només per les aparences.",
+      "imatge": "rateta8",
+      "audio": "rateta8_ca"
+    },
+    {
+      "text": "Il·lustracions: Ànnia C.\nVeu: Noelia D.",
+      "imatge": "rateta_final",
+      "audio": "rateta_final_ca"
+    }
+  ]
+}
