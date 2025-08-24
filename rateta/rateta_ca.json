@@ -3,53 +3,53 @@
   "escenes": [
     {
       "text": "La rateta presumida",
-      "imatge": "rateta_titol",
-      "audio": "rateta_titol_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta_titol_ca.mp3"
     },
     {
       "text": "Un dia, la rateta estava escombrant l’escaleta quan va trobar una moneda d’or al terra.\n—Què en faré, d’aquesta moneda?",
-      "imatge": "rateta1",
-      "audio": "rateta1_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta1_ca.mp3"
     },
     {
       "text": "La rateta va pensar, va pensar... i al final va decidir comprar-se un llacet vermell per a la cua.\nQuan se’l va posar, estava més presumida que mai.",
-      "imatge": "rateta2",
-      "audio": "rateta2_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta2_ca.mp3"
     },
     {
       "text": "De seguida, els animals la van veure i tots volien casar-se amb ella.\nPrimer va venir el gall i li va dir:\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo canto “quiquiriquic!” molt fort.\n—Ai no! —va dir la rateta—. Fas massa soroll!",
-      "imatge": "rateta3",
-      "audio": "rateta3_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta3_ca.mp3"
     },
     {
       "text": "Després va venir el gos i li va dir:\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo faig “bup-bup” i et cuidaré.\n—Ai no! —va dir la rateta—. Fas massa soroll!",
-      "imatge": "rateta4",
-      "audio": "rateta4_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta4_ca.mp3"
     },
     {
       "text": "Tot seguit va venir el ruc i li va dir:\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo faig “iii-aaah”.\n—Ai no! —va dir la rateta—. Fas massa soroll!",
-      "imatge": "rateta5",
-      "audio": "rateta5_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta5_ca.mp3"
     },
     {
       "text": "Després va aparèixer el gat, molt elegant.\n—Rateta, rateta, tan boniqueta, vols casar-te amb mi? Jo seré molt dolç i calladet.\n—Oh, sí! —va dir la rateta—. Amb tu sí que em vull casar!",
-      "imatge": "rateta6",
-      "audio": "rateta6_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta6_ca.mp3"
     },
     {
       "text": "El dia del casament, la rateta va preparar un bon dinar i va posar una cassola al foc.\nEl gat, amb veu suau, li va dir:\n—Rateta, rateta, tan boniqueta, deixa’m tastar el brou...",
-      "imatge": "rateta7",
-      "audio": "rateta7_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta7.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta7_ca.mp3"
     },
     {
       "text": "Quan la rateta es va girar... Nyam! El gat li va saltar a sobre i se la va voler menjar!\nPer sort, els amics animals de la rateta van arribar corrents i la van salvar.\nLa rateta va aprendre que no s’ha de jutjar només per les aparences.",
-      "imatge": "rateta8",
-      "audio": "rateta8_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta8.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta8_ca.mp3"
     },
     {
       "text": "Il·lustracions: Ànnia C.\nVeu: Noelia D.",
-      "imatge": "rateta_final",
-      "audio": "rateta_final_ca"
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/rateta_final_ca.mp3"
     }
   ]
 }
