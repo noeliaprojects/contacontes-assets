@@ -1,8 +1,7 @@
 [
   {
     "titol": "La rateta presumida",
-    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/refs/heads/main/rateta/rateta_ca.json",
-    "imatge": "https://github.com/noeliaprojects/contacontes-assets/blob/main/rateta/imatges/rateta_titol.png?raw=true"
+    "fitxer": "rateta/rateta_ca.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png"
   }
 ]
-
