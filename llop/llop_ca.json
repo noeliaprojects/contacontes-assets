@@ -1,0 +1,50 @@
+{
+  "titol": "El llop i les set cabretes",
+  "escenes": [
+    {
+      "text": "Hi havia una vegada una cabra que tenia set cabretes petites. Les estimava molt i sempre els deia que anessin amb compte amb el llop.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop1_ca.mp3"
+    },
+    {
+      "text": "Un dia, la cabra va sortir a comprar menjar i va advertir les seves filles: —No obriu la porta a ningú, sobretot al llop!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop2_ca.mp3"
+    },
+    {
+      "text": "El llop va arribar i va trucar a la porta fent veure que era la mare, però la seva veu era massa greu. Les cabretes no li van obrir.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop3_ca.mp3"
+    },
+    {
+      "text": "Aleshores el llop va anar a comprar mel per suavitzar la seva veu i va tornar a trucar a la porta. Aquesta vegada, semblava la mare.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop4_ca.mp3"
+    },
+    {
+      "text": "Les cabretes li van obrir, i el llop va entrar! Elles van córrer a amagar-se, però només una es va salvar.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop5_ca.mp3"
+    },
+    {
+      "text": "Quan la mare va tornar, la cabreta amagada li va explicar tot. Van sortir a buscar el llop i el van trobar dormint sota un arbre.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop6_ca.mp3"
+    },
+    {
+      "text": "La mare va obrir la panxa del llop i va alliberar les sis cabretes. Li van omplir la panxa de pedres i el van cosir.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop7.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop7_ca.mp3"
+    },
+    {
+      "text": "Quan el llop es va despertar i va anar a beure a la font, va caure dins per culpa del pes de les pedres. I així es van salvar per sempre!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop8.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop8_ca.mp3"
+    },
+    {
+      "text": "Il·lustracions: Ànnia C. \nVeu: Noelia D.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_ca/llop_final_ca.mp3"
+    }
+  ]
+}
