@@ -1,0 +1,40 @@
+{
+  "titol": "La Ventafocs",
+  "escenes": [
+    {
+      "text": "La Ventafocs",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs_titol_ca.mp3"
+    },
+    {
+      "text": "Una jove anomenada Ventafocs vivia amb la seva madrastra i germanastres, que la feien treballar molt.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs1_ca.mp3"
+    },
+    {
+      "text": "Un dia el rei va organitzar un ball i, amb l’ajuda de la seva fada madrina, la Ventafocs hi va poder anar.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs2_ca.mp3"
+    },
+    {
+      "text": "Al ball, el príncep es va enamorar d’ella, però a mitjanit la Ventafocs va fugir, perdent la sabata de cristall.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs3_ca.mp3"
+    },
+    {
+      "text": "El príncep va buscar per tot el regne la noia que pogués calçar aquella sabata.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs4_ca.mp3"
+    },
+    {
+      "text": "Quan la sabata va encaixar al peu de la Ventafocs, tothom va saber que era ella la triada.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs5_ca.mp3"
+    },
+    {
+      "text": "La Ventafocs i el príncep es van casar i van viure feliços per sempre.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_ca/ventafocs_final_ca.mp3"
+    }
+  ]
+}
