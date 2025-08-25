@@ -1,0 +1,40 @@
+{
+  "titol": "La Caputxeta Vermella",
+  "escenes": [
+    {
+      "text": "La Caputxeta Vermella",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta_titol_ca.mp3"
+    },
+    {
+      "text": "Una nena anomenada Caputxeta Vermella va anar a visitar la seva àvia amb una cistella de menjar.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta1_ca.mp3"
+    },
+    {
+      "text": "Pel camí es va trobar amb el llop, que li va preguntar on anava.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta2_ca.mp3"
+    },
+    {
+      "text": "El llop va arribar abans a casa de l’àvia i se la va empassar sencera.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta3_ca.mp3"
+    },
+    {
+      "text": "Quan va arribar la Caputxeta, va trobar el llop disfressat d’àvia.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta4_ca.mp3"
+    },
+    {
+      "text": "El llop es va llençar sobre ella, però un caçador va entrar i va rescatar la Caputxeta i l’àvia.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta5_ca.mp3"
+    },
+    {
+      "text": "I des d’aquell dia, la Caputxeta sempre va fer cas als consells de la seva mare.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_ca/caputxeta_final_ca.mp3"
+    }
+  ]
+}
