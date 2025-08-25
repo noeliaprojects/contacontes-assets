@@ -1,1 +1,41 @@
+{
+  "titol": "Els tres porquets",
+  "escenes": [
+    {
+      "text": "Els tres porquets",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets_titol_ca.mp3"
+    },
+    {
+      "text": "Hi havia una vegada tres porquets que volien construir-se una casa cadascun.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets1_ca.mp3"
+    },
+    {
+      "text": "El primer va fer la casa de palla, el segon de fusta i el tercer de maons.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets2_ca.mp3"
+    },
+    {
+      "text": "El llop va bufar i va enderrocar la casa de palla i la de fusta.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets3_ca.mp3"
+    },
+    {
+      "text": "Els porquets es van refugiar a la casa de maons, que era molt resistent.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets4_ca.mp3"
+    },
+    {
+      "text": "El llop va intentar entrar per la xemeneia, però va caure a l’olla amb aigua bullent!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets5_ca.mp3"
+    },
+    {
+      "text": "Els tres porquets van viure feliços i segurs a la seva casa forta.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets_final_ca.mp3"
+    }
+  ]
+}
 
