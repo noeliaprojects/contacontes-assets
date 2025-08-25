@@ -1,12 +1,12 @@
 [
   {
     "titol": "La rateta presumida",
-    "fitxer": "rateta/rateta_ca.json",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/rateta_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png"
   },
   {
     "titol": "El llop i les set cabretes",
-    "fitxer": "llop/llop_ca.json",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/llop_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop_titol.png"
   }
 ]
