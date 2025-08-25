@@ -1,6 +1,11 @@
 {
   "titol": "El llop i les set cabretes",
   "escenes": [
+      {
+      "text": "El llop i les set cabretes",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/llop_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_ca/MP3/llop_titol_ca.mp3"
+    },
     {
       "text": "Hi havia una vegada una cabra que tenia set cabretes petites. Les estimava molt i sempre els deia que anessin amb compte amb el llop.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop1.png",
