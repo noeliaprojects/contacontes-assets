@@ -1,0 +1,40 @@
+{
+  "titol": "El gat amb botes",
+  "escenes": [
+    {
+      "text": "El gat amb botes",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat_titol_ca.mp3"
+    },
+    {
+      "text": "Un moliner va deixar al seu fill petit només un gat. Però era un gat molt especial.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat1_ca.mp3"
+    },
+    {
+      "text": "El gat va demanar unes botes i una bossa, i va començar a caçar conills i presentar-los al rei com a regals del seu amo.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat2_ca.mp3"
+    },
+    {
+      "text": "Amb astúcia, va aconseguir enganyar un ogre i apoderar-se del seu castell.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat3_ca.mp3"
+    },
+    {
+      "text": "El rei va conèixer l’amo del gat i el va considerar un noble ric i poderós.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat4_ca.mp3"
+    },
+    {
+      "text": "Gràcies al gat, el jove es va casar amb la princesa i va viure en el castell.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat5_ca.mp3"
+    },
+    {
+      "text": "I així, el gat amb botes es va convertir en el més fidel i astut dels companys.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat_final_ca.mp3"
+    }
+  ]
+}
