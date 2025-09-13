@@ -1,0 +1,10 @@
+{
+  "titol": "Cinderella",
+  "escenes": [
+    {
+      "text": "Once upon a time, there was a girl named Cinderella...",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs1_en.mp3"
+    }
+  ]
+}

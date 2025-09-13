@@ -1,0 +1,15 @@
+{
+  "titol": "La Cenicienta",
+  "escenes": [
+    {
+      "text": "Había una vez una joven llamada Cenicienta...",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs1_es.mp3"
+    },
+    {
+      "text": "Un día llegó una invitación del palacio...",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs2_es.mp3"
+    }
+  ]
+}
