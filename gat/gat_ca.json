@@ -2,39 +2,40 @@
   "titol": "El gat amb botes",
   "escenes": [
     {
-      "text": "El gat amb botes",
+      "text": "El gat amb botes. Aquesta és la història d’un felí molt especial que, malgrat semblar un simple gat heretat, va demostrar una intel·ligència i una astúcia capaces de canviar per complet la vida del seu amo i fins i tot el destí d’un regne sencer. No era només un animal de companyia, sinó un veritable protagonista d’una aventura plena de sorpreses i enganys enginyosos.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_titol.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat_titol_ca.mp3"
     },
     {
-      "text": "Un moliner va deixar al seu fill petit només un gat. Però era un gat molt especial.",
+      "text": "Un moliner humil va deixar com a herència al seu fill petit un gat. El jove, en un primer moment, es va sentir decebut, ja que els seus germans havien rebut molins i diners, mentre que ell només tenia aquell animal. Però el que desconeixia és que aquest gat no era pas com els altres. Parlava amb veu clara i segura, i li va prometre que, si confiava en ell i li proporcionava unes botes fortes i una bossa resistent, li canviaria la vida i el convertiria en un home ric i admirat.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat1.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat1_ca.mp3"
     },
     {
-      "text": "El gat va demanar unes botes i una bossa, i va començar a caçar conills i presentar-los al rei com a regals del seu amo.",
+      "text": "Amb les seves noves botes i la bossa penjada a l’espatlla, el gat va començar a dur a terme un pla brillant. Caçava conills i perdius amb gran habilitat i els presentava com a regals al rei, dient sempre que provenien del seu amo, a qui anomenava amb pompa ‘el marquès de Carabàs’. Gràcies a aquestes ofrenes constants, el rei va començar a creure que aquell noble desconegut era un home molt ric i generós, digne de la seva confiança.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat2.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat2_ca.mp3"
     },
     {
-      "text": "Amb astúcia, va aconseguir enganyar un ogre i apoderar-se del seu castell.",
+      "text": "Més endavant, el gat va enfrontar-se a un ogre temut per tots, amo d’un gran castell i de moltes terres fèrtils. L’ogre era famós pels seus poders màgics, capaç de transformar-se en qualsevol animal, gran o petit. Amb molta astúcia, el gat va enganyar-lo fent-lo convertir-se en un ratolí, tot reptant-lo a demostrar el seu poder. Quan l’ogre va fer-ho, el gat, amb un salt ràpid i precís, se’l va menjar, i així es va apoderar del castell i de totes les seves riqueses.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat3.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat3_ca.mp3"
     },
     {
-      "text": "El rei va conèixer l’amo del gat i el va considerar un noble ric i poderós.",
+      "text": "Quan el rei va passar de viatge prop d’aquelles terres, el gat amb botes va aprofitar l’oportunitat per impressionar-lo encara més. Va fer que el seu amo es presentés com el propietari del castell i de les terres que abans pertanyien a l’ogre. El rei, meravellat per tanta riquesa i orgullós d’haver rebut tants regals d’aquell suposat noble, va començar a considerar l’amo del gat com un veritable cavaller, digne de formar part de la seva cort.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat4.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat4_ca.mp3"
     },
     {
-      "text": "Gràcies al gat, el jove es va casar amb la princesa i va viure en el castell.",
+      "text": "Amb el temps, el rei va voler unir encara més els seus llaços amb aquell noble tan generós. Va presentar-li la seva filla, la princesa, una jove bondadosa i encuriosida pel misteriós marquès de Carabàs. Els dos es van agradar de seguida, i amb el suport del rei, el jove es va casar amb ella. Gràcies a la intel·ligència i els trucs del gat amb botes, el fill del moliner, que abans no tenia res, ara vivia en un castell i compartia la seva vida amb la princesa.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat5.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat5_ca.mp3"
     },
     {
-      "text": "I així, el gat amb botes es va convertir en el més fidel i astut dels companys.",
+      "text": "I així va ser com el gat amb botes es va convertir en el company més fidel, astut i extraordinari que mai s’hagués conegut. La seva habilitat per enganyar i el seu enginy per crear oportunitats van aconseguir transformar la vida del seu amo. Des de llavors, el gat no només va ser estimat com un animal de companyia, sinó respectat com el veritable heroi d’una història que encara avui es recorda arreu del món.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_final.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_ca/gat_final_ca.mp3"
     }
   ]
 }
+

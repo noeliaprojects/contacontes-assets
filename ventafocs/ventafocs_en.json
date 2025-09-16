@@ -2,9 +2,39 @@
   "titol": "Cinderella",
   "escenes": [
     {
-      "text": "Once upon a time, there was a girl named Cinderella...",
+      "text": "Cinderella was a kind and gentle young girl who lived with her stepmother and two stepsisters. Even though she was always helpful and good-hearted, they treated her very badly. They made her clean the house, scrub the floors, wash the clothes, and do all the hard work. While her stepsisters enjoyed themselves and wore pretty dresses, she only had old and worn clothes.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs_titol_en.mp3"
+    },
+    {
+      "text": "One day, exciting news arrived: the king invited all the young women of the kingdom to a grand ball at the palace, so that the prince could choose a bride. The stepsisters were thrilled and began to prepare their fancy new gowns. Cinderella also wished to go, but her stepmother forbade her and gave her even more chores to do. Sad and tired, Cinderella sat by the fireplace and began to cry quietly.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs1.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs1_en.mp3"
+    },
+    {
+      "text": "Suddenly, her fairy godmother appeared, smiling kindly. She told Cinderella that she would indeed go to the ball. With a wave of her magic wand, she turned a pumpkin into a golden carriage, some mice into horses, and Cinderella’s old dress into a beautiful gown with shining glass slippers. But the fairy warned her that she must return before midnight, for when the clock struck twelve, all the magic would disappear.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs2_en.mp3"
+    },
+    {
+      "text": "When Cinderella arrived at the palace, everyone was amazed by her beauty. The prince, upon seeing her, could not look away and invited her to dance. They danced happily all night long. But when the clock began to strike twelve, Cinderella remembered her fairy godmother’s words and ran out quickly. As she fled, she lost one of her glass slippers on the palace staircase.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs3_en.mp3"
+    },
+    {
+      "text": "The next day, the prince ordered his servants to search the whole kingdom with the glass slipper, determined to find the mysterious young woman. Every girl tried on the shoe, but none of them could fit into it. The prince promised he would not give up until he found the girl he had danced with.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs4_en.mp3"
+    },
+    {
+      "text": "When they arrived at Cinderella’s house, her stepsisters rushed to try on the slipper, but their feet were far too big. Then Cinderella gently asked if she could try. As soon as she slipped her foot inside, the shoe fit perfectly. Everyone was astonished, and in that moment her rags turned into a magnificent princess dress once again.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs5_en.mp3"
+    },
+    {
+      "text": "The prince, overjoyed, knew that she was the girl from the ball and the one his heart had chosen. Soon after, they were married in a grand celebration. Cinderella left behind her life of sadness and hard work, and from that day on she lived happily ever after with the prince in the palace, remembering always that kindness and hope can make dreams come true.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_en/ventafocs_final_en.mp3"
     }
   ]
 }

@@ -2,40 +2,39 @@
   "titol": "Els tres porquets",
   "escenes": [
     {
-      "text": "Els tres porquets",
+      "text": "Els tres porquets. Aquesta és la història de tres germanets molt simpàtics i una mica trapelles, que un dia van decidir marxar de casa de la seva mare per viure sols i construir-se una caseta cadascun. Volien demostrar que ja eren grans i podien cuidar-se tot sols.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets_titol_ca.mp3"
     },
     {
-      "text": "Hi havia una vegada tres porquets que volien construir-se una casa cadascun.",
+      "text": "Hi havia una vegada tres porquets que caminaven pel bosc buscant un lloc tranquil per fer-se una caseta. El primer porquet era molt alegre però una mica mandrós, el segon era més treballador, i el tercer era el més responsable i pacient de tots. Tots tres estaven molt contents d’iniciar la seva aventura.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets1.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets1_ca.mp3"
     },
     {
-      "text": "El primer va fer la casa de palla, el segon de fusta i el tercer de maons.",
+      "text": "Quan va arribar el moment de construir la casa, el primer porquet va decidir fer-la de palla perquè era ràpid i fàcil. El segon va pensar que la seva seria de fusta, una mica més forta i bonica. Però el tercer, que volia estar ben segur, va treballar amb paciència i va fer la seva caseta de maons, que era molt més resistent i sòlida.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets2.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets2_ca.mp3"
     },
     {
-      "text": "El llop va bufar i va enderrocar la casa de palla i la de fusta.",
+      "text": "Un dia va aparèixer el llop ferotge. Tenia molta gana i va dir: ‘Bufaré i bufaré, i la casa tombaré!’. Va bufar molt fort i la caseta de palla va volar pels aires. Després va anar a la casa de fusta, va bufar i bufar, i també la va fer caure. Els dos porquets van haver de córrer molt de pressa per escapar-se i buscar refugi.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets3.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets3_ca.mp3"
     },
     {
-      "text": "Els porquets es van refugiar a la casa de maons, que era molt resistent.",
+      "text": "Espantats, els dos porquets petits van córrer fins a la casa del seu germà gran, la de maons. Ell els va obrir la porta i els va deixar entrar. El llop va arribar i va bufar i bufar, però la casa era tan forta que no es movia gens ni mica. Els tres porquets reien i s’abraçaven perquè sabien que estaven segurs dins la caseta resistent.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets4.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets4_ca.mp3"
     },
     {
-      "text": "El llop va intentar entrar per la xemeneia, però va caure a l’olla amb aigua bullent!",
+      "text": "El llop, molt enfadat, va intentar entrar per la xemeneia. Però els porquets eren molt llestos i van posar una gran olla amb aigua bullint sota el foc. Quan el llop va lliscar per la xemeneia, va caure dins l’olla i va sortir corrents del dolor, prometent no molestar mai més els porquets.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets5.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets5_ca.mp3"
     },
     {
-      "text": "Els tres porquets van viure feliços i segurs a la seva casa forta.",
+      "text": "Des d’aquell dia, els tres porquets van viure junts a la casa de maons, contents i segurs. Van aprendre que treballar amb paciència i esforç fa que les coses surtin millor, i que amb l’ajuda dels germans tot és més fàcil i divertit. I així van ser molt feliços per sempre més.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_final.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_ca/porquets_final_ca.mp3"
     }
   ]
 }
-

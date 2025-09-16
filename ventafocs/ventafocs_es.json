@@ -2,14 +2,39 @@
   "titol": "La Cenicienta",
   "escenes": [
     {
-      "text": "Había una vez una joven llamada Cenicienta...",
+      "text": "Cenicienta era una muchacha dulce y trabajadora que vivía con su madrastra y sus dos hermanastras. Aunque siempre era amable y bondadosa, la trataban muy mal. La obligaban a limpiar la casa, fregar los suelos, hacer las camas y realizar todas las tareas pesadas. Mientras sus hermanastras se divertían y vestían con ropa bonita, ella solo tenía vestidos viejos y gastados.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs_titol_es.mp3"
+    },
+    {
+      "text": "Un día llegó una gran noticia: el rey invitaba a todas las jóvenes del reino a un baile en el palacio, para que el príncipe pudiera elegir esposa. Las hermanastras se emocionaron y comenzaron a preparar sus vestidos nuevos. Cenicienta también deseaba ir, pero su madrastra se lo prohibió y le dejó aún más tareas. Muy triste, Cenicienta se sentó junto a la chimenea y comenzó a llorar en silencio.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs1.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs1_es.mp3"
     },
     {
-      "text": "Un día llegó una invitación del palacio...",
+      "text": "De repente, apareció su hada madrina, que le sonrió y le dijo que sí podría ir al baile. Con su varita mágica transformó una calabaza en un carruaje dorado, a unos ratones en caballos y su vestido viejo en un hermoso traje de princesa con zapatitos de cristal que brillaban como estrellas. El hada le advirtió que debía regresar antes de la medianoche, porque a las doce la magia desaparecería.",
       "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs2.png",
       "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs2_es.mp3"
+    },
+    {
+      "text": "Cuando Cenicienta llegó al palacio, todos quedaron maravillados de lo hermosa que era. El príncipe, al verla, no pudo apartar los ojos de ella y la invitó a bailar. Bailaron toda la noche sintiéndose felices, pero cuando el reloj comenzó a dar las doce campanadas, Cenicienta recordó las palabras de su hada madrina y salió corriendo. En su huida, perdió una de sus zapatillas de cristal en la escalera del palacio.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs3_es.mp3"
+    },
+    {
+      "text": "Al día siguiente, el príncipe ordenó recorrer todo el reino con la zapatilla de cristal para encontrar a la misteriosa joven. Quería que todas las chicas la probaran, pues solo la que él había conocido podría calzarla. Recorrieron pueblos y ciudades, pero a ninguna le quedaba bien. El príncipe no pensaba rendirse hasta hallarla.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs4_es.mp3"
+    },
+    {
+      "text": "Cuando llegaron a la casa de Cenicienta, las hermanastras se apresuraron a probarse la zapatilla, pero sus pies eran demasiado grandes. Entonces Cenicienta pidió con timidez probarla también. En cuanto se la puso, encajó perfectamente. Todos se sorprendieron y, como por arte de magia, sus vestidos viejos se transformaron en un precioso vestido de princesa.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs5_es.mp3"
+    },
+    {
+      "text": "El príncipe, muy feliz, reconoció que ella era la joven con la que había bailado y a quien su corazón había elegido. Poco después celebraron una gran boda, y Cenicienta dejó atrás su vida de tristeza y trabajo duro. Desde aquel día, vivió en el palacio con el príncipe y fueron muy felices para siempre, recordando que la bondad y la esperanza hacen que los sueños se cumplan.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/audios_es/ventafocs_final_es.mp3"
     }
   ]
 }
