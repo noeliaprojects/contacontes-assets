@@ -1,0 +1,40 @@
+{
+  "titol": "The Three Little Pigs",
+  "escenes": [
+    {
+      "text": "The Three Little Pigs",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets_titol_en.mp3"
+    },
+    {
+      "text": "Once upon a time, there were three little pigs who walked through the forest looking for a quiet place to build a house each. The first pig was cheerful but a bit lazy, the second was more hardworking, and the third was the most responsible and patient of all. They were all very excited to start their adventure.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets1_en.mp3"
+    },
+    {
+      "text": "When the time came to build their houses, the first little pig decided to make his out of straw because it was quick and easy. The second thought his should be made of wood, a little stronger and nicer. But the third, who wanted to be very safe, worked patiently and built his house with bricks, which was much stronger and sturdier.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets2_en.mp3"
+    },
+    {
+      "text": "One day, the big bad wolf appeared. He was very hungry and said: ‘I’ll huff and I’ll puff, and I’ll blow your house down!’. He blew very hard and the straw house flew apart. Then he went to the wooden house, huffed and puffed, and that house fell down too. The two little pigs had to run very fast to escape and find shelter.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets3_en.mp3"
+    },
+    {
+      "text": "Scared, the two little pigs ran to their older brother’s brick house. He opened the door and let them in. The wolf arrived and huffed and puffed, but the brick house was so strong that it didn’t move at all. The three pigs laughed and hugged each other, knowing they were safe inside the sturdy house.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets4_en.mp3"
+    },
+    {
+      "text": "The wolf, very angry, tried to come down the chimney. But the pigs were very clever and placed a big pot of boiling water over the fire. When the wolf slid down the chimney, he fell into the pot and ran away in pain, promising never to bother the pigs again.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets5_en.mp3"
+    },
+    {
+      "text": "From that day on, the three little pigs lived together in the brick house, happy and safe. They learned that working with patience and effort makes things better, and that with the help of brothers everything is easier and more fun. And so they lived happily ever after.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_en/porquets_final_en.mp3"
+    }
+  ]
+}

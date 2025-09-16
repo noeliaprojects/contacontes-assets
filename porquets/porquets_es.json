@@ -1,0 +1,40 @@
+{
+  "titol": "Los tres cerditos",
+  "escenes": [
+    {
+      "text": "Los tres cerditos",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets_titol_es.mp3"
+    },
+    {
+      "text": "Había una vez tres cerditos que caminaban por el bosque buscando un lugar tranquilo para construir una casita cada uno. El primer cerdito era alegre pero un poco perezoso, el segundo era más trabajador, y el tercero era el más responsable y paciente de todos. Los tres estaban muy contentos de empezar su aventura.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets1_es.mp3"
+    },
+    {
+      "text": "Cuando llegó el momento de construir la casa, el primer cerdito decidió hacerla de paja porque era rápido y fácil. El segundo pensó que la suya sería de madera, un poco más fuerte y bonita. Pero el tercero, que quería estar bien seguro, trabajó con paciencia y construyó su casa de ladrillos, que era mucho más resistente y sólida.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets2_es.mp3"
+    },
+    {
+      "text": "Un día apareció el lobo feroz. Tenía mucha hambre y dijo: ‘¡Soplaré y soplaré, y la casa derribaré!’. Sopló muy fuerte y la casita de paja voló por los aires. Después fue a la casa de madera, sopló y sopló, y también la hizo caer. Los dos cerditos tuvieron que correr muy deprisa para escapar y buscar refugio.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets3_es.mp3"
+    },
+    {
+      "text": "Asustados, los dos cerditos pequeños corrieron hasta la casa de su hermano mayor, la de ladrillos. Él les abrió la puerta y los dejó entrar. El lobo llegó y sopló y sopló, pero la casa era tan fuerte que no se movió ni un poquito. Los tres cerditos reían y se abrazaban porque sabían que estaban seguros dentro de la casita resistente.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets4_es.mp3"
+    },
+    {
+      "text": "El lobo, muy enfadado, intentó entrar por la chimenea. Pero los cerditos eran muy listos y pusieron una gran olla con agua hirviendo bajo el fuego. Cuando el lobo bajó por la chimenea, cayó dentro de la olla y salió corriendo del dolor, prometiendo no molestar nunca más a los cerditos.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets5_es.mp3"
+    },
+    {
+      "text": "Desde aquel día, los tres cerditos vivieron juntos en la casa de ladrillos, contentos y seguros. Aprendieron que trabajar con paciencia y esfuerzo hace que las cosas salgan mejor, y que con la ayuda de los hermanos todo es más fácil y divertido. Y así fueron muy felices para siempre.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/audios_es/porquets_final_es.mp3"
+    }
+  ]
+}

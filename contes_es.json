@@ -3,5 +3,20 @@
     "titol": "La Cenicienta",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/ventafocs_es.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_titol.png?v=2"
+  },
+  {
+    "titol": "Los tres cerditos",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/porquets_es.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png?v=2"
+  },
+  {
+    "titol": "Caperucita Roja",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/caputxeta_es.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png?v=2"
+  },
+  {
+    "titol": "El lobo y las siete cabritillas",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/llop_es.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop_titol.png?v=2"
   }
 ]

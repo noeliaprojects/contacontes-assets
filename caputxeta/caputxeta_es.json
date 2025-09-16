@@ -1,0 +1,55 @@
+{
+  "titol": "Caperucita Roja",
+  "escenes": [
+    {
+      "text": "Caperucita Roja",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta_titol_es.mp3"
+    },
+    {
+      "text": "Había una vez una niña muy cariñosa y alegre a la que todos llamaban Caperucita Roja, porque siempre llevaba puesta una capa con una capucha de color rojo que le había hecho su abuelita con mucho amor. A Caperucita le gustaba pasear por el bosque, saludar a los animales y ayudar en casa siempre que podía.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta1_es.mp3"
+    },
+    {
+      "text": "Un día, su mamá le dijo con cariño: —Caperucita, lleva esta cesta llena de pan, fruta y miel a la abuelita, que está enferma y necesita cuidarse. Pero no te entretengas por el bosque y ve con mucho cuidado. —Sí, mamá, no te preocupes —contestó la niña feliz, deseando ver a su abuelita y llevarle todo lo que necesitaba para recuperarse.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta2_es.mp3"
+    },
+    {
+      "text": "Mientras caminaba por el sendero del bosque, Caperucita se encontró con un lobo. —Buenos días, Caperucita —dijo el lobo con voz suave, aunque en sus ojos brillaba la picardía—. ¿Adónde vas tan cargada? —Voy a casa de mi abuelita, que vive detrás de ese bosque, y le llevo esta comida —respondió la niña sin sospechar nada. —Qué detalle más bonito —dijo el lobo astutamente—. ¿Por qué no recoges también unas flores tan hermosas como estas? Seguro que a tu abuelita le encantarán.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta3_es.mp3"
+    },
+    {
+      "text": "Caperucita, encantada con la idea, se puso a recoger flores de colores para regalárselas a su abuela. Mientras tanto, el lobo, muy rápido, corrió hasta la casa de la anciana. Cuando llegó, llamó a la puerta con voz fingida. —¿Quién es? —preguntó la abuela desde dentro. —Soy yo, Caperucita —respondió el lobo imitando una voz dulce y fina.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta4_es.mp3"
+    },
+    {
+      "text": "La abuelita, creyendo que era su nieta, abrió la puerta sin desconfiar. Pero en cuanto entró, el lobo dio un gran salto y se la tragó de un bocado. Después se puso su gorro y sus gafas, y se metió en la cama fingiendo ser la abuela para engañar a la niña cuando llegara.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta5_es.mp3"
+    },
+    {
+      "text": "Cuando Caperucita entró en la casa, se sorprendió mucho al ver a su abuela tan extraña. —Abuelita, ¡qué ojos tan grandes tienes! —Son para verte mejor, querida niña. —Y qué orejas tan grandes tienes —Son para oírte mejor, mi niña. —Pero abuelita, ¡qué boca tan grande tienes! —¡Es para comerte mejor! —rugió el lobo saltando de la cama.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta6_es.mp3"
+    },
+    {
+      "text": "En ese mismo instante, el lobo intentó atrapar a la niña. Pero, por suerte, un cazador que pasaba por allí escuchó los gritos y entró corriendo en la casa. Con valentía, logró ahuyentar al lobo y abrir su enorme barriga, de donde sacó a la abuelita sana y salva. Caperucita abrazó con fuerza a su abuela, muy feliz de volver a verla.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta7.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta7_es.mp3"
+    },
+    {
+      "text": "Caperucita, agradecida y algo asustada por la experiencia, prometió a su mamá que nunca más se entretendría en el camino y que siempre obedecería sus consejos. Desde entonces, los tres —la madre, la abuela y Caperucita— vivieron tranquilos y felices, y el lobo jamás volvió a atreverse a acercarse a ellas.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta8.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta8_es.mp3"
+    },
+    {
+      "text": "Ilustraciones: Paula C., Voz: Noelia D.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/audios_es/caputxeta_final_es.mp3"
+    }
+  ]
+}

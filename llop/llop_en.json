@@ -1,0 +1,55 @@
+{
+  "titol": "The Wolf and the Seven Little Goats",
+  "escenes": [
+    {
+      "text": "Once upon a time, there was a goat who lived peacefully in the forest with her seven little kids. Every day they played in the meadow, jumping, singing, and having lots of fun. The mother goat loved them dearly and always made sure they were safe and happy at home.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/llop_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/llop_titol_en.mp3"
+    },
+    {
+      "text": "One morning, the mother goat had to go to the market to buy food. Before leaving, she gathered her seven kids and said with a tender but serious voice: ‘My dear children, I have to leave for a while, but you must stay inside the house. Never open the door to anyone, especially if you hear the voice of the wolf, for he is evil and could harm you.’ The kids nodded and promised to be very careful.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop1_en.mp3"
+    },
+    {
+      "text": "When the mother left, the kids started playing inside the house, singing songs. But suddenly, someone knocked at the door. It was the wolf! With a deep, rough voice he said: ‘Open the door, open up, it’s your mother!’ But the little goats, remembering their mother’s words, replied: ‘You are not our mother, your voice is too dark and scary!’ The wolf, angry, walked away thinking of another way to trick them.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop2_en.mp3"
+    },
+    {
+      "text": "The wolf ran to buy some honey and drank it to soften his voice. Then he returned to the house and knocked again, saying in a sweeter voice: ‘Open the door, my little ones, it’s your mother, I have brought delicious food.’ The kids hesitated, because the voice sounded nicer, but they were still afraid. They looked under the door and saw his big black paws. ‘You are not our mother!’ they shouted. The wolf, very angry, left once more.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop3_en.mp3"
+    },
+    {
+      "text": "Cleverly, the wolf went to the village bakery and asked the baker to cover his paws with flour, so they would look white and delicate like a goat’s. When it was done, he went back to the little goats’ house. He knocked with a soft and sweet voice, and when the kids looked under the door, they saw white paws. Thinking it was their mother, they trusted him and opened the door.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop4_en.mp3"
+    },
+    {
+      "text": "But it was the wolf who entered! The kids were terrified and ran to hide: one under the bed, another behind the closet, another inside the clock, and so on until each tried to find a hiding place. Unfortunately, the wolf found them one by one and swallowed them all. Only the youngest, who was very clever, hid inside the clock case and was saved.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop5_en.mp3"
+    },
+    {
+      "text": "When the mother goat returned from the market, she found the door open and the house in a mess. The youngest kid came out of the clock and, with tears in his eyes, told her everything that had happened. The mother was very sad, but also brave, and decided to look for the wolf to rescue her children. Together they went out and soon found him sleeping under a tree, his belly very swollen from eating so much.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop6_en.mp3"
+    },
+    {
+      "text": "Very carefully, the mother goat took a pair of scissors and opened the wolf’s belly. One by one, all the little goats came out, alive and happy to be rescued. Then, together, they filled the wolf’s belly with big stones, and the mother sewed it up quickly. The wolf didn’t even wake up, for he was sleeping very deeply.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop7.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop7_en.mp3"
+    },
+    {
+      "text": "When the wolf woke up, he was very thirsty and went to drink from the fountain. But with all those stones inside his belly, he was so heavy that he lost his balance and fell into the water. He never came back to bother the little goats again. The mother and her seven children hugged tightly and lived happily and safely ever after.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop8.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop8_en.mp3"
+    },
+    {
+      "text": "Illustrations: . \nVoice: Noelia D.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/imatges/llop_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/llop/audios_en/llop_final_en.mp3"
+    }
+  ]
+}
