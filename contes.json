@@ -19,11 +19,7 @@
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/caputxeta_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png"
   },
-  {
-    "titol": "La Ventafocs",
-    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/ventafocs_ca.json",
-    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_titol.png"
-  },
+
   {
     "titol": "El gat amb botes",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/gat_ca.json",
