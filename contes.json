@@ -15,5 +15,10 @@
     "titol": "Jack o' lantern",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/jack_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack_titol.png?v=2"
+  },
+ {
+    "titol": "Els tres porquets",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/porquets_ca.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png?v=2"
   }
 ]
