@@ -1,22 +1,20 @@
 [
- {
+  {
     "titol": "La rateta presumida",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/rateta_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png?v=2"
   },
-
-{
+  {
     "titol": "La Caputxeta Vermella",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/caputxeta_ca.json",
-    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png?v=2"
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png?v=3"
   },
-
-{
+  {
     "titol": "Jack o' lantern",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/jack_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack_titol.png?v=2"
   },
- {
+  {
     "titol": "Els tres porquets",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/porquets_ca.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png?v=2"

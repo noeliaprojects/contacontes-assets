@@ -1,7 +1,7 @@
 [
   {
-    "titol": "No hay cuentos, estamos trabajando en ello",
-    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/notales/notales.json",
-    "imatge": ""
+    "titol": "Caperucita Roja",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/caputxeta_es.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png?v=3"
   }
 ]
