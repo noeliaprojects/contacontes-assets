@@ -1,0 +1,50 @@
+{
+  "titol": "La ratita presumida",
+  "escenes": [
+    {
+      "text": "La ratita presumida",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta_titol_es.mp3"
+    },
+    {
+      "text": "Un día, la ratita estaba barriendo la escalera cuando encontró una moneda de oro en el suelo.\n—¿Qué haré con esta moneda?",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta1_es.mp3"
+    },
+    {
+      "text": "La ratita pensó y pensó... y al final decidió comprarse un lazo rojo para la cola.\nCuando se lo puso, se sintió más presumida que nunca.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta2_es.mp3"
+    },
+    {
+      "text": "Enseguida, los animales la vieron y todos querían casarse con ella.\nPrimero llegó el gallo y le dijo:\n—Ratita, ratita, tan bonita, ¿te quieres casar conmigo? Yo canto «quiquiriquí» muy fuerte.\n—¡Ay, no! —dijo la ratita—. ¡Haces demasiado ruido!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta3_es.mp3"
+    },
+    {
+      "text": "Después llegó el perro y le dijo:\n—Ratita, ratita, tan bonita, ¿te quieres casar conmigo? Yo hago «guau guau» y te cuidaré.\n—¡Ay, no! —dijo la ratita—. ¡Haces demasiado ruido!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta4_es.mp3"
+    },
+    {
+      "text": "Luego llegó el burro y le dijo:\n—Ratita, ratita, tan bonita, ¿te quieres casar conmigo? Yo hago «iii-aaah».\n—¡Ay, no! —dijo la ratita—. ¡Haces demasiado ruido!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta5_es.mp3"
+    },
+    {
+      "text": "Después apareció el gato, muy elegante.\n—Ratita, ratita, tan bonita, ¿te quieres casar conmigo? Yo seré muy dulce y calladito.\n—¡Oh, sí! —dijo la ratita—. ¡Contigo sí que me quiero casar!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta6_es.mp3"
+    },
+    {
+      "text": "El día de la boda, la ratita preparó una buena comida y puso una olla al fuego.\nEl gato, con voz suave, le dijo:\n—Ratita, ratita, tan bonita, déjame probar el caldo...",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta7.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta7_es.mp3"
+    },
+    {
+      "text": "Cuando la ratita se dio la vuelta... ¡Ñam! El gato le saltó encima y quiso comérsela.\nPor suerte, sus amigos los animales llegaron corriendo y la salvaron.\nLa ratita aprendió que no hay que juzgar solo por las apariencias.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta8.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_es/rateta8_es.mp3"
+    }
+  ]
+}

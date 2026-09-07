@@ -1,0 +1,50 @@
+{
+  "titol": "The Vain Little Mouse",
+  "escenes": [
+    {
+      "text": "The Vain Little Mouse",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta_titol_en.mp3"
+    },
+    {
+      "text": "One day, the little mouse was sweeping the front steps when she found a gold coin on the ground.\n'What should I do with this coin?'",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta1_en.mp3"
+    },
+    {
+      "text": "The little mouse thought and thought... and finally decided to buy herself a red ribbon for her tail.\nOnce she put it on, she felt fancier than ever.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta2_en.mp3"
+    },
+    {
+      "text": "Soon, all the animals saw her and wanted to marry her.\nFirst came the rooster, who said:\n'Little mouse, little mouse, so sweet and neat, will you marry me? I sing \u201ccock-a-doodle-doo\u201d very loudly.'\n'Oh no!' said the little mouse. 'You're much too noisy!'",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta3_en.mp3"
+    },
+    {
+      "text": "Then came the dog, who said:\n'Little mouse, little mouse, so sweet and neat, will you marry me? I go \u201cwoof, woof\u201d and I'll take care of you.'\n'Oh no!' said the little mouse. 'You're much too noisy!'",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta4_en.mp3"
+    },
+    {
+      "text": "Next came the donkey, who said:\n'Little mouse, little mouse, so sweet and neat, will you marry me? I go \u201chee-haw.\u201d'\n'Oh no!' said the little mouse. 'You're much too noisy!'",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta5_en.mp3"
+    },
+    {
+      "text": "Then the cat appeared, looking very elegant.\n'Little mouse, little mouse, so sweet and neat, will you marry me? I'll be gentle and ever so quiet.'\n'Oh, yes!' said the little mouse. 'You're the one I want to marry!'",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta6_en.mp3"
+    },
+    {
+      "text": "On the wedding day, the little mouse prepared a lovely meal and set a pot over the fire.\nThe cat said in a soft voice:\n'Little mouse, little mouse, so sweet and neat, just let me taste the soup...'",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta7.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta7_en.mp3"
+    },
+    {
+      "text": "When the little mouse turned around... Snap! The cat pounced on her, ready to eat her up!\nLuckily, her animal friends came running and saved her just in time.\nThe little mouse learned that you should never judge someone just by their looks.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta8.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/audios_en/rateta8_en.mp3"
+    }
+  ]
+}
