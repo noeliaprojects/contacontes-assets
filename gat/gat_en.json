@@ -1,0 +1,40 @@
+{
+  "titol": "Puss in Boots",
+  "escenes": [
+    {
+      "text": "Puss in Boots. This is the story of a very special cat who, through his cleverness and cunning, completely changed his master's life.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat_titol_en.mp3"
+    },
+    {
+      "text": "A poor miller had little to leave his youngest son when he died — just a cat. The young man felt sad, since his brothers had inherited the mill and some money, while all he had was this one animal. But this was no ordinary cat: he could talk! And he promised that if he was given a sturdy pair of boots and a sack, he would change his master's fortune forever.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat1_en.mp3"
+    },
+    {
+      "text": "With his new boots and sack over his shoulder, the cat began catching rabbits and partridges. He brought them to the king as gifts, always saying they came from his master, whom he called 'the Marquis of Carabas.' Day after day, the king grew more and more convinced that this marquis must be someone very generous and important.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat2_en.mp3"
+    },
+    {
+      "text": "One day, the cat heard about a huge ogre who lived in a nearby castle and could turn himself into any animal. He paid the ogre a visit and, with great cunning, dared him to prove his power by turning into a mouse. The moment the ogre did, the cat pounced on him in an instant... and the castle became the Marquis of Carabas's!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat3_en.mp3"
+    },
+    {
+      "text": "Soon after, the king happened to pass through those lands with his daughter, the princess. The cat rushed to warn his master, who presented himself to the king as the owner of that magnificent castle. Delighted to finally meet such a generous nobleman, the king invited him to join them for a stroll.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat4_en.mp3"
+    },
+    {
+      "text": "The princess and the miller's son took an instant liking to one another, and spent the afternoon walking and laughing together. The king, happy to see them getting along so well, soon suggested they should marry.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat5_en.mp3"
+    },
+    {
+      "text": "The miller's son, who once had nothing but a cat, married the princess and lived happily in the castle ever after. And Puss in Boots, the cleverest and most loyal friend anyone could ask for, lived there with them, well loved and cared for, for the rest of his days.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_en/gat_final_en.mp3"
+    }
+  ]
+}

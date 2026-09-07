@@ -1,0 +1,40 @@
+{
+  "titol": "El gato con botas",
+  "escenes": [
+    {
+      "text": "El gato con botas. Este es el cuento de un gato muy especial que, gracias a su inteligencia y su astucia, cambió por completo la vida de su amo.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_titol.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat_titol_es.mp3"
+    },
+    {
+      "text": "Un molinero muy pobre solo pudo dejarle a su hijo pequeño un gato de herencia. El chico se puso triste, porque sus hermanos habían heredado el molino y algo de dinero, y él solo tenía aquel animal. Pero aquel gato no era un gato cualquiera: ¡hablaba! Y le prometió que, si le conseguía unas botas fuertes y un saco, le cambiaría la vida para siempre.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat1_es.mp3"
+    },
+    {
+      "text": "Con sus botas nuevas y el saco al hombro, el gato empezó a cazar conejos y perdices. Se los llevaba al rey como regalo, diciendo siempre que eran de parte de su amo, a quien llamaba «el marqués de Carabás». Día tras día, el rey fue pensando que aquel marqués debía de ser alguien muy generoso e importante.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat2_es.mp3"
+    },
+    {
+      "text": "Un día, el gato oyó hablar de un ogro enorme que vivía en un castillo cercano y que podía transformarse en cualquier animal. Fue a visitarlo y, con mucha picardía, lo retó a convertirse en un ratón para demostrar su poder. En cuanto el ogro lo hizo, el gato saltó sobre él en un segundo... ¡y el castillo pasó a ser del marqués de Carabás!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat3_es.mp3"
+    },
+    {
+      "text": "Poco después, el rey pasó por aquellas tierras junto a su hija, la princesa. El gato corrió a avisar a su amo, que se presentó ante el rey como el dueño de aquel magnífico castillo. El rey, encantado de conocer por fin a ese noble tan generoso, lo invitó a dar un paseo juntos.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat4_es.mp3"
+    },
+    {
+      "text": "La princesa y el hijo del molinero se cayeron bien enseguida, y pasaron la tarde paseando y riendo juntos. El rey, feliz al verlos tan a gusto, no tardó en proponer que se casaran.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat5_es.mp3"
+    },
+    {
+      "text": "El hijo del molinero, que antes no tenía más que un gato, se casó con la princesa y vivió feliz en el castillo para siempre. Y el gato con botas, el amigo más listo y fiel que se haya conocido, vivió con ellos, muy querido y bien cuidado, el resto de sus días.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_final.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/audios_es/gat_final_es.mp3"
+    }
+  ]
+}
