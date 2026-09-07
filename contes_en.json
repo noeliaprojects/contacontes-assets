@@ -1,5 +1,10 @@
 [
   {
+    "titol": "The Vain Little Mouse",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/rateta_en.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/rateta/imatges/rateta_titol.png?v=2"
+  },
+  {
     "titol": "Little Red Riding Hood",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/caputxeta_en.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/caputxeta/imatges/caputxeta_titol.png?v=3"
@@ -13,5 +18,20 @@
     "titol": "The Three Little Pigs",
     "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/porquets_en.json",
     "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/porquets/imatges/porquets_titol.png?v=2"
+  },
+  {
+    "titol": "Jack O'Lantern",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/jack_en.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack_titol.png?v=2"
+  },
+  {
+    "titol": "Cinderella",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/ventafocs_en.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/ventafocs/imatges/ventafocs_titol.png"
+  },
+  {
+    "titol": "Puss in Boots",
+    "fitxer": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/gat_en.json",
+    "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/gat/imatges/gat_titol.png"
   }
 ]
