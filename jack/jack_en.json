@@ -1,0 +1,35 @@
+{
+  "titol": "Jack O'Lantern",
+  "escenes": [
+    {
+      "text": "Long, long ago in Ireland, there lived a man named Jack. He was very clever, but also a bit of a trickster, and he loved playing mean jokes on everyone. One autumn night, as he walked home through the forest, the Devil himself appeared before him!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_en/jack1_en.mp3"
+    },
+    {
+      "text": "The Devil told him he had come to take him away, since he had been far too wicked in life. But Jack wasn't scared at all, and with a sly grin he made a proposal: 'Before we go, why don't we share one last sweet treat together?' The Devil, who had quite a sweet tooth himself, happily agreed.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_en/jack2_en.mp3"
+    },
+    {
+      "text": "When they finished, Jack said he had no money to pay. So he tricked the Devil into turning himself into a gold coin. But instead of paying with it, Jack slipped the coin into his pocket next to a tiny cross, so the Devil couldn't change back... and that's how he got trapped!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_en/jack3_en.mp3"
+    },
+    {
+      "text": "Trapped inside the coin, the Devil begged to be set free, and Jack agreed, on the condition that he'd be left in peace for many years. When that time passed, the Devil came looking for him again, but Jack tricked him once more: he asked him to climb a tree to pick an apple, and as soon as he was up there, Jack carved a cross into the trunk so he could never climb down.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_en/jack4_en.mp3"
+    },
+    {
+      "text": "Many years went by, and when Jack finally grew old, he died. But because he had been so wicked in life, he wasn't allowed into heaven. So he went looking for the Devil instead, but even he wouldn't take him in, after all the tricks Jack had played on him. Still, feeling a little sorry for him, the Devil gave him a burning coal to light his way.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_en/jack5_en.mp3"
+    },
+    {
+      "text": "Jack placed the coal inside a hollowed-out turnip to make a lantern, and ever since, he has wandered the world looking for a place to rest, his little light glowing in the dark. Over time, people in Ireland began telling his story, and when it travelled to America, people swapped turnips for pumpkins, which were bigger and easier to find. And that's how the tradition of the Jack O'Lantern was born — the glowing pumpkin we still see every Halloween night.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_en/jack6_en.mp3"
+    }
+  ]
+}

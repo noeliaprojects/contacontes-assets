@@ -1,0 +1,35 @@
+{
+  "titol": "Jack O'Lantern",
+  "escenes": [
+    {
+      "text": "Hace muchísimo tiempo, en Irlanda, vivía un hombre llamado Jack. Era muy astuto, pero también algo tramposo, y le encantaba gastar bromas pesadas a todo el mundo. Una noche de otoño, mientras volvía a casa por el bosque, ¡se le apareció el mismísimo diablo!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack1.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_es/jack1_es.mp3"
+    },
+    {
+      "text": "El diablo le dijo que había venido a llevárselo, porque había sido demasiado travieso en vida. Pero Jack no se asustó, y con una sonrisa le propuso un trato: —Antes de irnos, ¿por qué no nos tomamos algo dulce juntos? Al diablo, que también era un poco goloso, la idea le encantó.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack2.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_es/jack2_es.mp3"
+    },
+    {
+      "text": "Cuando terminaron, Jack dijo que no tenía dinero para pagar. Entonces convenció al diablo para que se transformara en una moneda de oro. Pero, en vez de pagar, se guardó la moneda en el bolsillo junto a una crucecita, para que no pudiera volver a su forma… ¡y así el diablo se quedó atrapado!",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack3.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_es/jack3_es.mp3"
+    },
+    {
+      "text": "Atrapado dentro de la moneda, el diablo le suplicó que lo dejara libre, y Jack aceptó a cambio de que lo dejara tranquilo durante muchos años. Cuando pasó ese tiempo, el diablo volvió a buscarlo, pero Jack lo engañó otra vez: le pidió que subiera a un árbol a coger una manzana y, en cuanto estuvo arriba, talló una cruz en el tronco para que no pudiera bajar nunca más.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack4.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_es/jack4_es.mp3"
+    },
+    {
+      "text": "Pasó mucho tiempo y, cuando Jack ya era muy mayor, murió. Pero como había sido tan travieso en vida, no lo dejaron entrar en el cielo. Fue entonces a buscar al diablo, pero este tampoco quiso acogerlo, después de todas las veces que lo había engañado. Aun así, sintió un poco de lástima por él y le dio un carbón encendido para que le iluminara el camino.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack5.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_es/jack5_es.mp3"
+    },
+    {
+      "text": "Jack metió el carbón dentro de un nabo hueco para hacerse una linterna, y desde entonces camina por el mundo buscando un lugar donde descansar, con su lucecita en medio de la oscuridad. Con el tiempo, la gente de Irlanda empezó a contar su historia, y cuando la llevaron a América cambiaron los nabos por calabazas, más grandes y fáciles de encontrar. Así nació la tradición del Jack O'Lantern, la calabaza iluminada que todavía vemos cada noche de Halloween.",
+      "imatge": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/imatges/jack6.png",
+      "audio": "https://raw.githubusercontent.com/noeliaprojects/contacontes-assets/main/jack/audios_es/jack6_es.mp3"
+    }
+  ]
+}
